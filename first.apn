@@ -1,0 +1,11 @@
+{
+  "aps": {
+    "alert": "Breaking News!",
+    "sound": "rooster.caf",
+    "link_url": "https://raywenderlich.com"
+  },
+  "payment": {
+    "amount": "20",
+    "unit": "BNB"
+  }
+}
